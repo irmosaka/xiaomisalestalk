@@ -1,0 +1,2255 @@
+[
+  {
+    "id": "redmi-watch-6-active",
+    "name": "REDMI Watch 6 Active",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ساعت هوشمند",
+    "playbookStatus": "verified",
+    "skuCount": 3,
+    "productNames": [
+      "Redmi Watch 6 Active Matte Silver 78277",
+      "Redmi Watch 6 Active Sunset Orange 78278",
+      "Redmi Watch 6 Active Midnight Black 78279"
+    ]
+  },
+  {
+    "id": "xiaomi-redmi-watch-6-lite-steel",
+    "name": "Redmi Watch 6 Lite Steel",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ساعت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Redmi Watch 6 Lite Steel Gray 78275"
+    ]
+  },
+  {
+    "id": "xiaomi-redmi-watch-5-lite",
+    "name": "Redmi Watch 5 Lite",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ساعت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Redmi Watch 5 Lite Light Gold 57767"
+    ]
+  },
+  {
+    "id": "xiaomi-redmi-watch-6",
+    "name": "REDMI Watch 6",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ساعت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "REDMI Watch 6 Glacier Blue 68713"
+    ]
+  },
+  {
+    "id": "xiaomi-watch-s5-46",
+    "name": "Xiaomi Watch S5 46mm",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ساعت هوشمند",
+    "playbookStatus": "verified",
+    "skuCount": 3,
+    "productNames": [
+      "Xiaomi Watch S5 46mm Silver 70273",
+      "Xiaomi Watch S5 46mm Ceramic Blue 70274",
+      "Xiaomi Watch S5 46mm Jungle Green 70278"
+    ]
+  },
+  {
+    "id": "xiaomi-redmi-watch-6-lite",
+    "name": "Redmi Watch 6 Lite",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ساعت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Redmi Watch 6 Lite Black 78276"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-truclean-w30-pro-wet-dry-vacuum-brush",
+    "name": "Xiaomi Truclean W30 Pro Wet Dry Vacuum Brush",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جارو و زمین‌شوی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Truclean W30 Pro Wet Dry Vacuum Brush 69573"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-dust-mite-vacuum-cleaner",
+    "name": "Xiaomi Dust Mite Vacuum Cleaner",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جاروبرقی و جارو شارژی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Dust Mite Vacuum Cleaner UK"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-vacuum-cleaner-4-pro",
+    "name": "Mijia Vacuum Cleaner 4 Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جاروبرقی و جارو شارژی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Vacuum Cleaner 4 Pro EU 78155"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-dust-mite-vacuum-cleaner-pro",
+    "name": "Xiaomi Dust Mite Vacuum Cleaner Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جاروبرقی و جارو شارژی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Dust Mite Vacuum Cleaner Pro GB 58204"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-dust-mite-vacuum-cleaner-2-pro",
+    "name": "Xiaomi Dust Mite Vacuum Cleaner 2 Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جاروبرقی و جارو شارژی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Dust Mite Vacuum Cleaner 2 Pro GB 71136"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-truclean-w20-wet-dry-vacuum",
+    "name": "Xiaomi Truclean W20 Wet Dry Vacuum",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جاروبرقی و جارو شارژی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Truclean W20 Wet Dry Vacuum UK 57785"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-vacuum-cleaner-4-c",
+    "name": "Mijia Vacuum Cleaner 4 C",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جاروبرقی و جارو شارژی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Vacuum Cleaner 4 C UK - 78150"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-65w-gan-charger",
+    "name": "Xiaomi 65W GaN Charger",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "شارژر و برق‌رسانی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi 65W GaN Charger (Type-A + Type-C) UK 40095"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-4k-tv-stick-ob6",
+    "name": "XIAOMI 4K TV STICK OB6",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "استریمینگ و TV Stick",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "XIAOMI 4K TV STICK OB6-UK",
+      "Xiaomi 4K TV STICK OB6-EU"
+    ]
+  },
+  {
+    "id": "xiaomi-tv-stick-2k",
+    "name": "Xiaomi TV Stick 2K",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "استریمینگ و TV Stick",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi TV Stick 2K"
+    ]
+  },
+  {
+    "id": "xiaomi-tv-box-s-3rd-gen",
+    "name": "Xiaomi TV Box S (3rd Gen)",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "TV Box و پخش‌کننده",
+    "playbookStatus": "verified",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi TV Box S (3rd Gen) UK",
+      "Xiaomi TV Box S (3rd Gen)  EU"
+    ]
+  },
+  {
+    "id": "xiaomi-tv-a-pro-32-2026",
+    "name": "Xiaomi TV A Pro 32 (2026)",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "تلویزیون",
+    "playbookStatus": "verified",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi TV A Pro 32\" 2026 63963"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-tv-a-pro-75-2026",
+    "name": "Xiaomi TV A Pro 75 2026",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "تلویزیون",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi TV A Pro 75 2026 63729"
+    ]
+  },
+  {
+    "id": "xiaomi-tv-max-100-2025",
+    "name": "Xiaomi TV Max 100 (2025)",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "تلویزیون",
+    "playbookStatus": "verified",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi TV Max 100 2025"
+    ]
+  },
+  {
+    "id": "xiaomi-tv-s-mini-led-2026",
+    "name": "Xiaomi TV S Mini LED 2026",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "تلویزیون",
+    "playbookStatus": "verified",
+    "skuCount": 4,
+    "productNames": [
+      "Xiaomi TV S Mini LED 55 2026 70448",
+      "Xiaomi TV S Mini LED 65 2026 70472",
+      "Xiaomi TV S Mini LED 75 2026 70490",
+      "Xiaomi TV S Mini LED 85 2026 70508"
+    ]
+  },
+  {
+    "id": "xiaomi-tv-a-43-2026",
+    "name": "Xiaomi TV A 43 (2026)",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "تلویزیون",
+    "playbookStatus": "verified",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi TV A 43U 2026"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-electric-toothbrush-t501-replacemen",
+    "name": "Xiaomi Smart Electric Toothbrush T501 Replacement Heads",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "بهداشت دهان و دندان",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Electric Toothbrush T501 Replacement Heads(White Pro) (Dark Gray)-50963"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-oscillation-electric-toothbrush-pro",
+    "name": "Xiaomi Oscillation Electric Toothbrush Pro",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "بهداشت دهان و دندان",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Oscillation Electric Toothbrush Pro GL (purple) 66113"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-toothbrush-t302",
+    "name": "Xiaomi Electric Toothbrush T302",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "بهداشت دهان و دندان",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Toothbrush T302 (Dark Blue)-50058"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-smart-servo-oscillation-electric-toothbrus",
+    "name": "Mijia Smart Servo-oscillation Electric Toothbrush Pro",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "بهداشت دهان و دندان",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Mijia Smart Servo-oscillation Electric Toothbrush Pro GL White",
+      "Mijia Smart Servo-oscillation Electric Toothbrush Pro GL Blue"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-cordless-screwdriver",
+    "name": "Mi Cordless Screwdriver",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "ابزار و تعمیرات",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi Cordless Screwdriver"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-16-in-1-ratchet-screwdriver",
+    "name": "Mi 16-in-1 Ratchet Screwdriver",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "ابزار و تعمیرات",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi 16-in-1 Ratchet Screwdriver 30436"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-precision-screwdriver",
+    "name": "Xiaomi Electric Precision Screwdriver",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "ابزار و تعمیرات",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Precision Screwdriver -Grey- 36013"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-lcd-writing-tablet-13-5",
+    "name": "Mi LCD Writing Tablet 13.5\"",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "لوازم نوشتاری و دیجیتال",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi LCD Writing Tablet 13.5\" (Color Edition)-47303"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-wireless-switch",
+    "name": "Mi Wireless Switch",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "کنترل خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi Wireless Switch -23952"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-handheld-steam-iron-ek",
+    "name": "Xiaomi Handheld Steam Iron EK",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Handheld Steam Iron EK 58380"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-sport-water-bottle",
+    "name": "Xiaomi Sport Water Bottle",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "ورزش و نوشیدنی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Sport Water Bottle-61337"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-jump-rope",
+    "name": "Xiaomi Smart Jump Rope",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "ورزش و نوشیدنی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Jump Rope-44578"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-straw-mug",
+    "name": "Xiaomi Straw Mug",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "ورزش و نوشیدنی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Straw Mug 60321"
+    ]
+  },
+  {
+    "id": "xiaomi-sound-outdoor",
+    "name": "Xiaomi Sound Outdoor",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "اسپیکر",
+    "playbookStatus": "verified",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Sound Outdoor S29H-GL -Gold",
+      "S29D Xiaomi Sound Outdoor 30W (Blue)"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-speaker-lite",
+    "name": "Xiaomi Smart Speaker Lite",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "اسپیکر",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Speaker Lite"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-automatic-foaming-soap-dispenser",
+    "name": "Mi Automatic Foaming Soap Dispenser",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "بهداشت و نظافت خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi Automatic Foaming Soap Dispenser-29349"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-automatic-soap-dispenser",
+    "name": "Xiaomi Automatic Soap Dispenser",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "بهداشت و نظافت خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Automatic Soap Dispenser (Blue) -59631",
+      "Xiaomi Automatic Soap Dispenser (Pink) - 59493"
+    ]
+  },
+  {
+    "id": "xiaomi-camera-c201",
+    "name": "Xiaomi Smart Camera C201",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Camera C201 71380"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-doorbell-3s",
+    "name": "Xiaomi Smart Doorbell 3S",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Doorbell 3S 46068"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-pet-fountain-2",
+    "name": "Xiaomi Smart Pet Fountain 2",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Pet Fountain 2 -60137"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-shaver-s301",
+    "name": "Xiaomi Electric Shaver S301",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "اصلاح و مراقبت شخصی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Shaver S301 48654"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-shaver-s101",
+    "name": "Xiaomi Electric Shaver S101",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "اصلاح و مراقبت شخصی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Shaver S101 48658"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-electric-shaver-pro-portable",
+    "name": "Mijia Electric Shaver Pro Portable",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "اصلاح و مراقبت شخصی",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Mijia Electric Shaver Pro Portable (Silver) - 77873",
+      "Mijia Electric Shaver Pro Portable (Blue) - 77871"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-zoom-floor-selfie-stick-tripod-62",
+    "name": "Xiaomi Zoom Floor Selfie Stick Tripod 62\"",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "عکاسی و تولید محتوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Zoom Floor Selfie Stick Tripod 62\" 66779"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-selfie-stick-tripod-mini",
+    "name": "Xiaomi Selfie Stick Tripod Mini",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "عکاسی و تولید محتوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Selfie Stick Tripod Mini 66759"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-scooter-fast-charger-2",
+    "name": "Xiaomi Electric Scooter Fast Charger 2",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "لوازم جانبی اسکوتر",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Scooter Fast Charger 2 73470"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-scooter-5-plus",
+    "name": "Xiaomi Electric Scooter 5 Plus",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "اسکوتر برقی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Scooter 5 Plus GL 66227"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-electric-scooter-essential-25702",
+    "name": "Mi Electric Scooter Essential -25702",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "اسکوتر برقی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi Electric Scooter Essential Black-25702-2025"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-smart-scale-s200",
+    "name": "Mi Smart Scale S200",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ترازو و پایش سلامت",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Mi Smart Scale S200 (White) 59203",
+      "Mi Smart Scale S200 (Dark Grey) 59212"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-self-install-smart-lock",
+    "name": "Xiaomi Self-Install Smart Lock",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "قفل هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Self-Install Smart Lock EU 65462"
+    ]
+  },
+  {
+    "id": "xiaomi-robot-vacuum-s40",
+    "name": "Xiaomi Robot Vacuum S40",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جارو رباتیک",
+    "playbookStatus": "verified",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Robot Vacuum S40 UK 66891",
+      "Xiaomi Robot Vacuum S40 EU 66892"
+    ]
+  },
+  {
+    "id": "xiaomi-robot-vacuum-6pro",
+    "name": "Xiaomi Robot Vacuum 6 Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جارو رباتیک",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Robot Vacuum 6Pro EU 73704",
+      "Xiaomi Robot Vacuum 6Pro UK - 73703"
+    ]
+  },
+  {
+    "id": "xiaomi-robot-vacuum-h50-pro",
+    "name": "Xiaomi Robot Vacuum H50 Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جارو رباتیک",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Robot Vacuum H50 Pro UK - White -67950"
+    ]
+  },
+  {
+    "id": "xiaomi-robot-vacuum-6",
+    "name": "Xiaomi Robot Vacuum 6",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "جارو رباتیک",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Robot Vacuum 6 UK 74634"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-multifunctional-rice-cooker",
+    "name": "Xiaomi Smart Multifunctional Rice Cooker",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Multifunctional Rice Cooker UK 52777"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-portable-photo-printer-pro",
+    "name": "Xiaomi Portable Photo Printer Pro",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "عکاسی و چاپ همراه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Portable Photo Printer Pro 66646"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-gaming-mouse-lite",
+    "name": "Xiaomi Gaming Mouse Lite",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ماوس و لوازم جانبی کامپیوتر",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Gaming Mouse Lite GL 57884"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-wireless-mouse-comfort-edition",
+    "name": "Xiaomi Wireless Mouse Comfort Edition",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ماوس و لوازم جانبی کامپیوتر",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Wireless Mouse Comfort Edition (Black)-59628",
+      "Xiaomi Wireless Mouse Comfort Edition (White)-59623"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-wireless-mouse-3",
+    "name": "Xiaomi Wireless Mouse 3",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ماوس و لوازم جانبی کامپیوتر",
+    "playbookStatus": "pending",
+    "skuCount": 3,
+    "productNames": [
+      "Xiaomi Wireless Mouse 3 Black GL 57944",
+      "Xiaomi Wireless Mouse 3 Blue GL 57945",
+      "Xiaomi Wireless Mouse 3 White GL 57943"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-mini-led-gaming-monitor-g-pro-27i",
+    "name": "Xiaomi Mini LED Gaming Monitor G Pro 27i",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "مانیتور",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Mini LED Gaming Monitor G Pro 27i EU"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-massage-gun-mini-2",
+    "name": "Xiaomi Massage Gun mini 2",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "ماساژ و ریکاوری",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Massage Gun mini 2 GL 60074"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-luggage-classic-pro-24",
+    "name": "Xiaomi Luggage Classic Pro 24\"",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "چمدان و سفر",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Luggage Classic Pro 24\" (Grey) 56889",
+      "Xiaomi Luggage Classic Pro 24\" (Black) 56890"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-luggage-classic-pro-20",
+    "name": "Xiaomi Luggage Classic Pro 20\"",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "چمدان و سفر",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Luggage Classic Pro 20\" (Grey) 56871"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-front-opening-luggage-20",
+    "name": "Xiaomi Front Opening Luggage 20\"",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "چمدان و سفر",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Front Opening Luggage 20\" 57626"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-luggage-classic-pro-28",
+    "name": "Xiaomi Luggage Classic Pro 28\"",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "چمدان و سفر",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Luggage Classic Pro 28\" (Black) 56886",
+      "Xiaomi Luggage Classic Pro 28\" (Grey) 56872"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-lint-remover-2",
+    "name": "Mijia Lint Remover 2",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "مراقبت لباس",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Lint Remover 2 GL 72643"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-lightstrip-pro",
+    "name": "Xiaomi Smart Lightstrip Pro",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Lightstrip Pro-41939"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-night-light-3-gl58251",
+    "name": "Xiaomi Night Light 3 GL58251",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Night Light 3 GL58251"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-laser-measure",
+    "name": "Xiaomi Smart Laser Measure",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "ابزار اندازه‌گیری",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Laser Measure Black -36764"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-kettle-2",
+    "name": "Xiaomi Electric Kettle 2",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Kettle 2 UK 39192"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-kettle-2-lite",
+    "name": "Xiaomi Electric Kettle 2 Lite",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Kettle 2 Lite UK 58528"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-smart-air-purifier-with-humidification-pro",
+    "name": "Mijia Smart Air Purifier with Humidification Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "تصفیه و رطوبت هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Smart Air Purifier with Humidification Pro EU - 78321"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-temperature-and-humidity-monitor-clock359",
+    "name": "Xiaomi Temperature and Humidity Monitor Clock35911",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "پایش محیط",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Temperature and Humidity Monitor Clock35911"
+    ]
+  },
+  {
+    "id": "redmi-headphones-neo",
+    "name": "REDMI Headphones Neo",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "هدفون",
+    "playbookStatus": "pending",
+    "skuCount": 3,
+    "productNames": [
+      "REDMI Headphones Neo Obsidian Black 73670",
+      "REDMI Headphones Neo Sand White 73667",
+      "Redmi Headphones Neo Mist Blue 73671"
+    ]
+  },
+  {
+    "id": "xiaomi-mi-x-simpleway-foaming-hand-soap",
+    "name": "Mi x Simpleway Foaming Hand Soap",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "بهداشت و نظافت خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mi x Simpleway Foaming Hand Soap"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-cordless-hair-straightener-brush",
+    "name": "Xiaomi Cordless Hair Straightener Brush",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "مراقبت مو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Cordless Hair Straightener Brush 63602"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-compact-hair-dryer-h101",
+    "name": "Xiaomi Compact Hair Dryer H101",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "مراقبت مو",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Xiaomi Compact Hair Dryer H101 (White) EU 48668",
+      "Xiaomi Compact Hair Dryer H101 (Pink) EU 48667"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-hair-clipper-2",
+    "name": "Xiaomi Hair Clipper 2",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "اصلاح و مراقبت شخصی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Hair Clipper 2-58351"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-smart-audio-glasses-aviator",
+    "name": "Mijia Smart Audio Glasses Aviator",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "عینک صوتی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Smart Audio Glasses Aviator 73608"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-water-flosser-replacement-tips",
+    "name": "Xiaomi Water Flosser Replacement Tips",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "بهداشت دهان و دندان",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Water Flosser Replacement Tips 62939"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-tower-fan-2",
+    "name": "Xiaomi Smart Tower Fan 2",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Tower Fan 2 UK"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-standing-fan-2",
+    "name": "Xiaomi Smart Standing Fan 2",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Standing Fan 2 UK"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-standing-fan-2-pro",
+    "name": "Xiaomi Smart Standing Fan 2 Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Standing Fan 2 Pro UK"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-standing-air-circulation-fan",
+    "name": "Xiaomi Smart Standing Air Circulation Fan",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Standing Air Circulation Fan UK"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-rechargeable-mini-fan",
+    "name": "Xiaomi Rechargeable Mini Fan",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Rechargeable Mini Fan GL"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-desktop-air-circulation-fan",
+    "name": "Xiaomi Smart Desktop Air Circulation Fan",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Desktop Air Circulation Fan GB 62471"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-semi-automatic-espresso-machine",
+    "name": "Mijia Semi-automatic Espresso Machine",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Semi-automatic Espresso Machine UK 73113"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-water-dispenser",
+    "name": "Xiaomi Smart Water Dispenser",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "آب‌سردکن و آب‌ریز",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Water Dispenser (Hot and Cold) GB 58627"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-scent-diffuser-refill",
+    "name": "Xiaomi Smart Scent Diffuser Refill",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "رایحه و خوشبوکننده",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Scent Diffuser Refill ( Rose and Iychee)  60069"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-electric-pressure-cooker-4-8l",
+    "name": "Xiaomi Electric Pressure Cooker 4.8L",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Electric Pressure Cooker 4.8L UK 58225"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-portable-electric-air-compressor-2-pro",
+    "name": "Xiaomi Portable Electric Air Compressor 2 Pro",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "کمپرسور و ابزار خودرو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Portable Electric Air Compressor 2 Pro"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-portable-electric-air-compressor-2",
+    "name": "Xiaomi Portable Electric Air Compressor 2",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "کمپرسور و ابزار خودرو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Portable Electric Air Compressor 2 46422"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-compact-portable-electric-air-compressor",
+    "name": "Mijia Compact Portable Electric Air Compressor",
+    "brand": "Xiaomi",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "کمپرسور و ابزار خودرو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Compact Portable Electric Air Compressor 73359"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-50w-wireless-charging-stand",
+    "name": "Xiaomi 50W Wireless Charging Stand",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "شارژر و برق‌رسانی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi 50W Wireless Charging Stand-40460"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-20w-power-strip",
+    "name": "Xiaomi 20W Power Strip",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "شارژر و برق‌رسانی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi 20W Power Strip(2C1A)UK 64875"
+    ]
+  },
+  {
+    "id": "xiaomi-camera-c500-dual",
+    "name": "Xiaomi Smart Camera C500 Dual",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "دوربین و نظارت هوشمند",
+    "playbookStatus": "verified",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Camera C500 Dual UK 57612"
+    ]
+  },
+  {
+    "id": "xiaomi-camera-c100",
+    "name": "Xiaomi Smart Camera C100",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "دوربین و نظارت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Camera C100 65013"
+    ]
+  },
+  {
+    "id": "xiaomi-outdoor-camera-cw100-dual",
+    "name": "Xiaomi Outdoor Camera CW100 Dual",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "دوربین و نظارت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Outdoor Camera CW100 Dual UK 64873"
+    ]
+  },
+  {
+    "id": "xiaomi-outdoor-camera-bw500",
+    "name": "Xiaomi Outdoor Camera BW500",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "دوربین و نظارت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Outdoor Camera BW500 55302"
+    ]
+  },
+  {
+    "id": "xiaomi-outdoor-camera-bw300",
+    "name": "Xiaomi Outdoor Camera BW300",
+    "brand": "Xiaomi",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "دوربین و نظارت هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Outdoor Camera BW300 55304"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-67w-car-charger",
+    "name": "Xiaomi 67W Car Charger",
+    "brand": "Xiaomi",
+    "group": "ابزار و لوازم جانبی",
+    "category": "شارژر و برق‌رسانی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi 67W Car Charger (USB-A + Type-C)-43907"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-buds-5",
+    "name": "Xiaomi Buds 5",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ایرباد بی‌سیم",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Buds 5-Graphite Black  54399"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-buds-5-pro-bt",
+    "name": "Xiaomi Buds 5 Pro BT",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ایرباد بی‌سیم",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Buds 5 Pro BT-White 61091"
+    ]
+  },
+  {
+    "id": "redmi-buds-8-lite",
+    "name": "REDMI Buds 8 Lite",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ایرباد بی‌سیم",
+    "playbookStatus": "pending",
+    "skuCount": 3,
+    "productNames": [
+      "REDMI Buds 8 Lite (White) 71619",
+      "REDMI Buds 8 Lite (Blue) 71617",
+      "REDMI Buds 8 Lite (Black) 71620"
+    ]
+  },
+  {
+    "id": "xiaomi-redmi-buds-5-pro",
+    "name": "Redmi Buds 5 Pro",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ایرباد بی‌سیم",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Redmi Buds 5 Pro Moonlight White-50140",
+      "Redmi Buds 5 Pro Aurora Purple- 50977"
+    ]
+  },
+  {
+    "id": "redmi-buds-8-pro",
+    "name": "REDMI Buds 8 Pro",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ایرباد بی‌سیم",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "REDMI Buds 8 Pro Glacier Blue 69547"
+    ]
+  },
+  {
+    "id": "xiaomi-buds-6",
+    "name": "Xiaomi Buds 6",
+    "brand": "Xiaomi",
+    "group": "دیجیتال و سرگرمی",
+    "category": "ایرباد بی‌سیم",
+    "playbookStatus": "verified",
+    "skuCount": 4,
+    "productNames": [
+      "Xiaomi Buds 6 Graphite Black - 71608",
+      "Xiaomi Buds 6 Ceramic White - 71611",
+      "Xiaomi Buds 6 Titan Gray - 71612",
+      "Xiaomi Buds 6 Nebula Purple - 79113"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-band-9-active",
+    "name": "Xiaomi Smart Band 9 Active",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "دستبند هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Band 9 Active Purple 70785"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-band-11-active",
+    "name": "Xiaomi Smart Band 11 Active",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "دستبند هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Band 11 Active Black - 77971"
+    ]
+  },
+  {
+    "id": "xiaomi-xiaomi-smart-band-10-ceramic-edition",
+    "name": "Xiaomi Smart Band 10 Ceramic Edition",
+    "brand": "Xiaomi",
+    "group": "پوشیدنی و مراقبت شخصی",
+    "category": "دستبند هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Band 10 Ceramic Edition Pearl White - 65687"
+    ]
+  },
+  {
+    "id": "xiaomi-air-purifier-4-pro",
+    "name": "Xiaomi Smart Air Purifier 4 Pro",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "تصفیه هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Air Purifier 4 Pro White -UK 33666"
+    ]
+  },
+  {
+    "id": "xiaomi-air-purifier-6",
+    "name": "Xiaomi Smart Air Purifier 6",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "تصفیه هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Air Purifier 6 UK 71307"
+    ]
+  },
+  {
+    "id": "xiaomi-air-purifier-elite",
+    "name": "Xiaomi Smart Air Purifier Elite",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "تصفیه هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Xiaomi Smart Air Purifier Elite UK -41588"
+    ]
+  },
+  {
+    "id": "mijia-air-purifier-6-plus",
+    "name": "Mijia Smart Air Purifier 6 Plus",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "تصفیه هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Smart Air Purifier 6 Plus UK 79101"
+    ]
+  },
+  {
+    "id": "mijia-air-purifier-max",
+    "name": "Mijia Smart Air Purifier Max",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "تصفیه هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Smart Air Purifier Max EU 73997"
+    ]
+  },
+  {
+    "id": "xiaomi-mijia-smart-steam-air-fryer-7l",
+    "name": "Mijia Smart Steam Air Fryer 7L",
+    "brand": "Xiaomi",
+    "group": "لوازم خانه",
+    "category": "لوازم آشپزخانه",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Mijia Smart Steam Air Fryer 7L UK - 73366"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-yeetag-ylyai",
+    "name": "Yeelight Yeetag YLYAI",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی و خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Yeetag  YLYAI-0018"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-wireless-charging-nightlight",
+    "name": "Yeelight wireless charging nightlight",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ شب و سنسوردار",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight wireless charging nightlight"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-ultra-thin-induction-cabinet-light-a50",
+    "name": "Yeelight Ultra-Thin Induction Cabinet Light A50",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Ultra-Thin Induction Cabinet Light A50-15115"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-ultra-thin-induction-cabinet-light-a30",
+    "name": "Yeelight Ultra-Thin Induction Cabinet Light A30",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Ultra-Thin Induction Cabinet Light A30 (15114)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-ultra-thin-il-cabinet-light",
+    "name": "Yeelight Ultra-Thin IL Cabinet Light",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Ultra-Thin IL Cabinet Light -Gray (17043)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-smart-light-panels-extension",
+    "name": "Yeelight Smart Light Panels Extension",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Smart Light Panels Extension White (90010)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-smart-led-filament-bulb-dp231-golden",
+    "name": "Yeelight Smart LED Filament Bulb-DP231-Golden",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "لامپ هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Smart LED Filament Bulb-DP231-Golden"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-smart-led-filament-bulb-dp1201",
+    "name": "Yeelight Smart LED Filament Bulb-DP1201",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "لامپ هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Smart LED Filament Bulb-DP1201-White"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-smart-led-bulb-w4l",
+    "name": "Yeelight Smart LED Bulb W4L",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "لامپ هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Smart LED Bulb W4L (Multicolor) White (13085)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-rgbic-led-basic-strip-lights-6metres",
+    "name": "Yeelight RGBIC LED Basic Strip Lights 6metres",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "ریسه و نورپردازی خطی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight RGBIC LED Basic Strip Lights 6metres"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-rgbic-led-basic-strip-lights-12metres",
+    "name": "Yeelight RGBIC LED Basic Strip Lights 12metres",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "ریسه و نورپردازی خطی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight RGBIC LED Basic Strip Lights 12metres"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-remote-control",
+    "name": "Yeelight Remote Control",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی و خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Remote Control White (YLYK0101)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-rechargeble-atmosphere-lamp",
+    "name": "Yeelight Rechargeble Atmosphere Lamp",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Rechargeble Atmosphere Lamp Gray (13102)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-rechargeable-atmosphere-light",
+    "name": "Yeelight Rechargeable Atmosphere light",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی و خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Rechargeable Atmosphere light-white"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-razer-led-smart-lamp-d2",
+    "name": "Yeelight Razer LED Smart Lamp D2",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Razer LED Smart Lamp D2 White -12355"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-pura-monitor-light-bar-pro",
+    "name": "Yeelight Pura Monitor Light Bar Pro",
+    "brand": "Yeelight",
+    "group": "دیجیتال و سرگرمی",
+    "category": "چراغ مانیتور",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Pura Monitor Light Bar Pro (Black) - 16773"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-pura-monitor-light-bar",
+    "name": "Yeelight Pura Monitor Light Bar",
+    "brand": "Yeelight",
+    "group": "دیجیتال و سرگرمی",
+    "category": "چراغ مانیتور",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Pura Monitor Light Bar (Black) - 16772"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-pura-lite-monitor-light-bar-lite",
+    "name": "Yeelight Pura Lite Monitor Light Bar Lite",
+    "brand": "Yeelight",
+    "group": "دیجیتال و سرگرمی",
+    "category": "چراغ مانیتور",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Pura Lite Monitor Light Bar Lite (Black) - 16774"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-obsid-rgbic-lightstrip",
+    "name": "Yeelight Obsid RGBIC Lightstrip",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "ریسه و نورپردازی خطی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Obsid RGBIC Lightstrip Black (14217)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-motion-sensor-night-light",
+    "name": "Yeelight Motion Sensor Night Light",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ شب و سنسوردار",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Yeelight Motion Sensor Night Light White (15117)",
+      "Yeelight Motion Sensor Night Light- 12379"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-motion-sensor-closet-light-a60-ydqa1520",
+    "name": "Yeelight Motion Sensor Closet Light A60 -YDQA1520007BKGL",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Motion Sensor Closet Light A60 Black-YDQA1520007BKGL"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-motion-sensor-closet-light-a60",
+    "name": "Yeelight Motion Sensor Closet Light A60",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Motion Sensor Closet Light A60 Black (11975)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-motion-sensor-closet-light-a40",
+    "name": "Yeelight Motion Sensor Closet Light A40",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Motion Sensor Closet Light A40 Black (11974)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-motion-sensor-closet-light-a20-ydqa1720",
+    "name": "Yeelight Motion Sensor Closet Light A20 -YDQA1720007BKGL",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Motion Sensor Closet Light A20 Black-YDQA1720007BKGL"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-mosquito-repellant-lamp-gj044",
+    "name": "Yeelight Mosquito Repellant Lamp-GJ044",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Mosquito Repellant Lamp-GJ044-White"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-mercury-e-sensor-ceiling-light-c300",
+    "name": "Yeelight Mercury E Sensor Ceiling Light C300",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سقفی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Mercury E Sensor Ceiling Light C300 White-17118"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-lightstrip-pro",
+    "name": "Yeelight Lightstrip Pro",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "ریسه و نورپردازی خطی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Lightstrip Pro White- 12256"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-led-sensor-drawer-light",
+    "name": "Yeelight LED Sensor Drawer Light",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سنسوردار کابینت و کمد",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Yeelight LED Sensor Drawer Light (00168)",
+      "Yeelight LED Sensor Drawer Light (00163)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-led-screen-light-bar-pro",
+    "name": "Yeelight LED Screen Light bar Pro",
+    "brand": "Yeelight",
+    "group": "دیجیتال و سرگرمی",
+    "category": "چراغ مانیتور",
+    "playbookStatus": "pending",
+    "skuCount": 2,
+    "productNames": [
+      "Yeelight LED Screen Light bar Pro Grey-12278",
+      "Yeelight LED Screen Light bar Pro -Grey- 00409"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-led-obsid-rgbic-striplight-extension-ca",
+    "name": "Yeelight LED Obsid RGBIC Striplight Extension Cable",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "ریسه و نورپردازی خطی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight LED Obsid RGBIC Striplight Extension Cable"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-led-neck-book-light",
+    "name": "Yeelight LED Neck Book Light",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ مطالعه و رومیزی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight LED Neck Book Light Black  (16797)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-led-lightstrip-pro-extension",
+    "name": "Yeelight LED Lightstrip Pro Extension",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "ریسه و نورپردازی خطی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight LED Lightstrip Pro Extension White-12257"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-gu10-smart-bulb-w1-4-pack",
+    "name": "Yeelight GU10 Smart Bulb W1 4-Pack",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "لامپ هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight GU10 Smart Bulb W1 (Multicolor)4-Pack White (00306)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-folding-table-lamp",
+    "name": "Yeelight folding table lamp",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ مطالعه و رومیزی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight folding table lamp white"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-folding-desk-lamp-z1",
+    "name": "Yeelight Folding Desk Lamp Z1",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ مطالعه و رومیزی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Folding Desk Lamp Z1 Red"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-folding-desk-lamp-z1-pro-yltd141",
+    "name": "Yeelight Folding Desk Lamp Z1 Pro - YLTD141",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ مطالعه و رومیزی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Folding Desk Lamp Z1 Pro White- YLTD141"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-curtain-lights",
+    "name": "Yeelight Curtain Lights",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "نورپردازی مناسبتی و پرده‌ای",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Curtain Lights (1.5*2 metres)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-cube-smart-lamp-spot-extention",
+    "name": "Yeelight Cube Smart Lamp Spot Extention",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Cube Smart Lamp Spot Extention Black-12282"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-cube-smart-lamp-spot",
+    "name": "Yeelight Cube Smart Lamp Spot",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Cube Smart Lamp Spot -Black -13225"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-cube-smart-lamp-panel",
+    "name": "Yeelight Cube Smart Lamp Panel",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Cube Smart Lamp Panel -Black -13224"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-cube-smart-lamp-matrix-extension",
+    "name": "Yeelight Cube Smart Lamp Matrix Extension",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Cube Smart Lamp Matrix Extension Black-12284"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-cube-smart-lamp-lite",
+    "name": "Yeelight Cube Smart Lamp Lite",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Cube Smart Lamp Lite-Black-16758"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-cube-smart-lamp",
+    "name": "Yeelight Cube Smart Lamp",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Cube Smart Lamp ( 4-Matrix Pack) - 16577"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-christmas-string-lights-20metres",
+    "name": "Yeelight Christmas String Lights 20metres",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "نورپردازی مناسبتی و پرده‌ای",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Christmas String Lights 20metres"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-christmas-string-lights-10metres",
+    "name": "Yeelight Christmas String Lights 10metres",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "نورپردازی مناسبتی و پرده‌ای",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Christmas String Lights 10metres"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-charging-table-lamp",
+    "name": "Yeelight Charging Table Lamp",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ مطالعه و رومیزی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Charging Table Lamp White (14459)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-ceiling-fan-light-c480",
+    "name": "Yeelight Ceiling Fan Light C480",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ سقفی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Ceiling Fan Light C480- White (17232)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-candela-lamp-champagne",
+    "name": "Yeelight Candela Lamp Champagne",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Candela Lamp Champagne Gold--13391"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-camping-lamp-with-speaker-golden",
+    "name": "Yeelight Camping Lamp With Speaker-Golden",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Camping Lamp With Speaker-Golden (16118)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-camping-lamp-with-speaker",
+    "name": "Yeelight Camping Lamp With Speaker",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Camping Lamp With Speaker-Black (16119)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-beam-rgbic-light-bar",
+    "name": "Yeelight Beam RGBIC Light Bar",
+    "brand": "Yeelight",
+    "group": "سایر محصولات",
+    "category": "نورپردازی دکوراتیو",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Beam RGBIC Light Bar Black (13877)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-automatic-curtain-opener-2o",
+    "name": "Yeelight Automatic Curtain Opener 2O",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "موتور پرده هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Automatic Curtain Opener 2O  White (12752)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-automatic-curtain-opener-2c",
+    "name": "Yeelight Automatic Curtain Opener 2C",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "موتور پرده هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Automatic Curtain Opener 2C  White (12754)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-automatic-curtain-opener-1o",
+    "name": "Yeelight Automatic Curtain Opener 1O",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "موتور پرده هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Automatic Curtain Opener 1O White (12751)"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-arwen-celling-light-d600",
+    "name": "Yeelight Arwen Celling light D600",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی و خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Arwen Celling light D600 White- 16032"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-arwen-celling-light-d500",
+    "name": "Yeelight Arwen Celling Light D500",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "روشنایی و خانه هوشمند",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Arwen Celling Light D500 White - 16031"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-aries-monitor-light-bar",
+    "name": "Yeelight Aries Monitor Light Bar",
+    "brand": "Yeelight",
+    "group": "دیجیتال و سرگرمی",
+    "category": "چراغ مانیتور",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight Aries Monitor Light Bar-Dark Grey-17071"
+    ]
+  },
+  {
+    "id": "yeelight-yeelight-4-in-1-rechargeable-desk-lamp-blackgold",
+    "name": "Yeelight 4-in-1 Rechargeable Desk Lamp BlackGold-1",
+    "brand": "Yeelight",
+    "group": "خانه هوشمند و روشنایی",
+    "category": "چراغ مطالعه و رومیزی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Yeelight 4-in-1 Rechargeable Desk Lamp BlackGold-1"
+    ]
+  },
+  {
+    "id": "kingsmith-kingsmith-walkingpad-treadmill-z3-hybrid-wp400q4",
+    "name": "KINGSMITH WalkingPad Treadmill/Z3 Hybrid+ WP400Q42",
+    "brand": "Kingsmith",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "تجهیزات ورزشی خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "KINGSMITH WalkingPad Treadmill/Z3 Hybrid+ WP400Q42 -Black"
+    ]
+  },
+  {
+    "id": "kingsmith-kingsmith-neck-massage-msk1a",
+    "name": "KINGSMITH NECK MASSAGE -MSK1A",
+    "brand": "Kingsmith",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "تجهیزات ورزشی خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "KINGSMITH NECK MASSAGE -MSK1A"
+    ]
+  },
+  {
+    "id": "kingsmith-etsfi21-color-table",
+    "name": "ETSFI21 Color Table",
+    "brand": "Kingsmith",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "تجهیزات ورزشی خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "ETSFI21 White Color Table"
+    ]
+  },
+  {
+    "id": "kingsmith-etsfi21-antique-wood-color-table",
+    "name": "ETSFI21 Antique wood color Table",
+    "brand": "Kingsmith",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "تجهیزات ورزشی خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "ETSFI21 Antique wood color Table"
+    ]
+  },
+  {
+    "id": "kingsmith-etd2-color-table",
+    "name": "ETD2 Color Table",
+    "brand": "Kingsmith",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "تجهیزات ورزشی خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "ETD2 White Color Table"
+    ]
+  },
+  {
+    "id": "kingsmith-etd2-walnut-color-table",
+    "name": "ETD2 Walnut color Table",
+    "brand": "Kingsmith",
+    "group": "سفر، حرکت و فضای باز",
+    "category": "تجهیزات ورزشی خانگی",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "ETD2  Walnut color Table"
+    ]
+  },
+  {
+    "id": "dreo-dreo-humidifier-420s-dr-hhm010s",
+    "name": "DREO Humidifier 420S DR-HHM010S",
+    "brand": "DREO",
+    "group": "لوازم خانه",
+    "category": "رطوبت‌ساز",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "DREO Humidifier 420S DR-HHM010S"
+    ]
+  },
+  {
+    "id": "dreo-dreo-smart-ultimate-turbopolyfan-with-rgb-light-",
+    "name": "DREO Smart Ultimate TurboPolyFan with RGB Light DR-HPF025S",
+    "brand": "DREO",
+    "group": "لوازم خانه",
+    "category": "پنکه و گردش هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "DREO Smart Ultimate TurboPolyFan with RGB Light DR-HPF025S"
+    ]
+  },
+  {
+    "id": "dreo-filter-for-hap005s-dr-hpa025",
+    "name": "Filter for HAP005S DR-HPA025",
+    "brand": "DREO",
+    "group": "لوازم خانه",
+    "category": "تصفیه هوا",
+    "playbookStatus": "pending",
+    "skuCount": 1,
+    "productNames": [
+      "Filter for HAP005S(1pc/box) DR-HPA025"
+    ]
+  }
+]
