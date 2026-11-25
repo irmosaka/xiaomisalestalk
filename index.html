@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101d35"><title>Retail Sales Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar"><div class="brandmark">R<span>·</span>H</div><div><strong>RETAIL SALES HUB</strong><small>PRODUCT KNOWLEDGE · SALES ENABLEMENT</small></div><span class="top-tag">نسخه اولیه</span></header>
+<main class="shell">
+<section class="hero"><div class="hero-copy"><span class="eyebrow">RETAIL PRODUCT PLAYBOOK</span><h1>دانش محصول،<br>ابزار فروش حرفه‌ای</h1><p>راهنمای سریع محصولات، دسته‌بندی‌ها و محتوای موردنیاز فروشنده در نقطه فروش.</p></div><div class="hero-stat"><b id="totalProducts">—</b><span>محصول در کاتالوگ</span><i>●</i></div></section>
+<section class="toolbar"><label class="search"><span>⌕</span><input id="search" placeholder="جست‌وجوی نام محصول، مدل یا EAN…"></label><button id="clearFilters" class="clear">پاک‌کردن فیلترها</button></section>
+<section class="filter-row"><div class="filter-group"><span>برند</span><div id="brandFilters" class="chips"></div></div><div class="filter-group"><span>دسته‌بندی</span><div id="categoryFilters" class="chips"></div></div></section>
+<section class="results-head"><div><h2 id="sectionTitle">همه محصولات</h2><p id="resultCount">در حال بارگذاری…</p></div><select id="sort"><option value="stock">بیشترین موجودی</option><option value="name">نام محصول</option><option value="brand">برند</option></select></section>
+<section id="categoryOverview" class="category-grid"></section>
+<section id="productGrid" class="product-grid"></section>
+<p class="footnote">اطلاعات شناسایی، دسته‌بندی و موجودی از فایل Trading List استخراج شده‌اند. متن Sales Talk و ادعاهای فنی تا زمان بررسی منابع رسمی، عمداً به‌صورت قطعی درج نشده‌اند.</p>
+</main>
+<div id="modal" class="modal hidden"><div class="modal-backdrop" data-close></div><article class="modal-card"><button class="modal-close" data-close>×</button><div id="modalContent"></div></article></div>
+<script src="app.js"></script>
+</body></html>
